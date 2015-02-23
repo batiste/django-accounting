@@ -19,3 +19,10 @@ flake8>=2.2.2
 ipdb>=0.8,<0.9
 ipdbplugin>=1.4
 ipython>=1.1.0,<1.2.0
+
+## Required packages
+django-bootstrap3>=5.1.1
+django-datetime-widget>=0.9.3
+Django-Select2-Py3>=4.2.1
+Babel>=1.3
+django-classy-tags==0.5.1
